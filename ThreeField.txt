@@ -7,3 +7,6 @@ git有三大区：
 	使用commit将暂存区放到版本库
 
 git checkout -- 文件名
+git reset HEAD 文件名
+git reset --hard 版本号
+git reset --mix 版本号(文件名)
